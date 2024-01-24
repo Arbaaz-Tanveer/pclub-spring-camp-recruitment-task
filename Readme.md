@@ -8,5 +8,4 @@
 #for the second task it kind of works but its producing same results for irrespective of the input after training
 #extract the chessmen-image-dataset and make sure that the file path inside the code is set to that file
 #run the cells in sequence.
-
-
+#i have only included bishop images in the zip file beacuse github was not allowing file more than 25 mb
