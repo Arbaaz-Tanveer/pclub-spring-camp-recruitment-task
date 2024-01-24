@@ -6,4 +6,7 @@
 
 
 #for the second task it kind of works but its producing same results for irrespective of the input after training
-#make sure that the path to the the chessman dataset is correct and then run the cells in sequence.
+#extract the chessmen-image-dataset and make sure that the file path inside the code is set to that file
+#run the cells in sequence.
+
+
